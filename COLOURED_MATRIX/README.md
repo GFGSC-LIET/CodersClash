@@ -6,6 +6,6 @@
 - If it is a odd square matrix then , the matrix is coloured as follows :
 ![image](https://imgtr.ee/images/2023/10/06/44fc69c8b04119c880611fd86a1949ec.jpeg)<br>
 Input Format:
-- The first and only line of input contains a single integer N.
+- The first and only line of input contains a single integer N.<br>
 Output Format:
 - You have to print the sum of red colour , green colour , yellow colour and the blue colour.
