@@ -4,15 +4,16 @@ The online order costs Z rupees while the cost of eating at Mandi restaurant is 
 
 Find the cheaper option for Dev to eat, i.e., whether to order food on Zomato or eat at Mandi.
 
-Input Format
+**Input Format**
 
 Line 1 consists of Z i.e cost of ordering on Zomato
 Line 2 consists of M i.e cost of eating at Mandi
-Constraints
+
+**Constraints**
 
 1 ≤ Z,M ≤ 1000
 
-Output Format
+**Output Format**
 
 For each test case, output on a new line: 
 
@@ -24,14 +25,14 @@ Print the amount to be paid.
 
 Print ZOMATO, if Dev gets a better deal in online ordering, Print MANDI if Dev gets a better deal in eating at the restaurant, Print BOTH if both deals cost the same.
 
-Sample Input 0
+**Sample Input 0**
 
 500
 400
-Sample Output 0
+**Sample Output 0**
 
 400
 MANDI
-Explanation 0
 
+**Explanation 0**
 Dev can choose Mandi because he will charged 450/- if he orders on Zomato
